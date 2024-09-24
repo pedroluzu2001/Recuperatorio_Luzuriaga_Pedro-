@@ -1,4 +1,4 @@
-import Item from "./Item"; // Importa el componente Item
+import Item from "./Item"; 
 
 const listadoPlataformas = ["Twitter", "Facebook", "Youtube"];
 
